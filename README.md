@@ -1,4 +1,4 @@
-Latop Price Prediction 
+Laptop Price Prediction 
 
 This a machine learning model which is used to predict the price of the laptop's on the basis of their specifications like screen size,ram,rom,processor,graphics card and other things
 
